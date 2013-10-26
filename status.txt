@@ -1,0 +1,1 @@
+To get the status of each room, switch to its corresponding branch.
